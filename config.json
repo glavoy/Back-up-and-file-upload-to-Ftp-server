@@ -1,0 +1,16 @@
+{
+  "computer_id": "cpu10",
+  "security": {
+    "master_key": "rE6K62GVueu/k3H0vIuPQVh+0hHmwTtnSR+v0F9wsto=",
+    "encrypted_pwd_file": "C:\\Users\\TIMO\\Documents\\Tess back up\\ftp_pwd.txt"
+  },
+  "ftp": {
+    "host": "0f7a55b.netsolhost.com",
+    "username": "ugmicdrop%6423",
+    "remote_base_dir": "/TES"
+  },
+  "paths": {
+    "source_folder": "C:\\micdrop\\MSAccessDatabase",
+    "backup_staging_folder": "C:\\Users\\TIMO\\Documents\\back up\\dailybackup"
+  }
+}
